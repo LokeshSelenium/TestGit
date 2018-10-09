@@ -14,6 +14,7 @@ public class TestGit
 		else
 		{
 			System.out.println("Sum is not 50");
+			System.out.println("Sum is not 50");
 		}
 
 	}
